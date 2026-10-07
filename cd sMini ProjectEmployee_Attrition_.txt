@@ -1,0 +1,2 @@
+cd "s:\Mini Project\Employee_Attrition_Prediction"
+python -m streamlit run app.py
